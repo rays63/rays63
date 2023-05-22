@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Raymond Maharjan
-- 👀 I’m interested in Data Science...
-- 🌱 I’m currently learning Python ...
-- 📫 How to reach me raymondmhz63@gmail.com...
-
+![Metrics](/github-metrics.svg)
 
 <!---
 rays63/rays63 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
