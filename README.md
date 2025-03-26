@@ -1,7 +1,6 @@
 # 💫 About Me:
 I'm currently learning QA Automation<br>
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raymond_maharjan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raymz) 
 
@@ -12,16 +11,5 @@ I'm currently learning QA Automation<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rays63&theme=ayu-mirage&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rays63&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rays63&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
-
-### 😂
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=rays63&icon=1&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
